@@ -48,3 +48,8 @@ No Structured
 Scalability and Flexibility
 Schema on read Options
 Document key-value
+
+## Mongoose
+
+npm install Mongoose
+mongoose.connect is a function that contains DB URL.
